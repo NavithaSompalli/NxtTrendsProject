@@ -1,0 +1,20 @@
+.nxt-slide-logo {
+  height: 40px;
+  width: 40px;
+  margin-top: 5px;
+}
+
+.nav-container {
+  background-color: #dbeafe;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  padding: 10px;
+}
+
+.nav-heading {
+  font-family: 'Bree serif';
+  color: #0f172a;
+  font-size: 20px;
+  margin-left: 5px;
+}

@@ -1,0 +1,12 @@
+.slider-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  height: 100vh;
+  background-size: cover;
+}
+
+.ol-container {
+  list-style-type: none;
+  overflow-y: scroll;
+}

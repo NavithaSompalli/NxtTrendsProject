@@ -1,0 +1,27 @@
+.new-button {
+  background-color: #dbeafe;
+  height: 45px;
+  width: 130px;
+  border: none;
+  margin: 10px;
+  border-radius: 5px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+
+.new-plus-icon {
+  background-color: transparent;
+  height: 25px;
+  width: 25px;
+  margin-top: 10px;
+  color: #0f172a;
+}
+
+.new-name {
+  font-family: 'Roboto';
+  color: #0f172a;
+  font-weight: bold;
+  margin-top: 10px;
+  font-size: 20px;
+}
